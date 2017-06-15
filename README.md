@@ -38,3 +38,25 @@ https://srpater.github.io/PRG08-Eindproduct/
   - Polymorphism: dit wordt bijvoorbeeld toegepast door een Plane en Clouds op te slaan in een array van GameObjects.
   - Enumeraties: dit wordt toegepast in de class Game om van Screen te kunnen wisselen.
 - Game Loop: er is een GameLoop method in de class Game.
+
+## Review Week 7
+
+Live version fork: https://omniscientjv.github.io/PRG08-Eindproduct/
+
+- [x] Library: Je hebt Howler geimplementeerd en toegepast om geluiden af te spelen.
+- [x] Encapsulation, composition, inheritance
+- [x] Singleton pattern
+- [x] Observer pattern
+- [x] Strategy pattern
+- [x] Interface, static, abstract
+- [x] Namespaces, polymorphism, enumeraties
+- [x] Game Loop
+
+- [x] De code voor het deelproject staat op je eigen GitHub.  
+- [x] Er is een live page waar de game speelbaar is. 
+- [x] Het deelproduct moet werkend zijn zonder bugs / foutmeldingen. 
+- [x] Het project bevat een Readme bestand met installatie instructies. Deze instructies stellen de gebruiker in staat om het deelproduct te installeren en te openen.  
+- [x] Het Readme bestand legt uit waar de onderstaande programmeerprincipes zijn toegepast in het project 
+
+## Beoordeling
+Voldoende!
